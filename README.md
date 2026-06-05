@@ -13,7 +13,6 @@
 * IoT & Embedded Systems
 * Data Analytics & Visualization
 * Cloud Computing
-* Software Development
 
 🌱 Currently improving my skills in Python, Power BI, AWS, and IoT Applications.
 
@@ -62,22 +61,6 @@
 * Team Collaboration
 * Communication Skills
 
----
-
-## 💼 Internship Experience
-
-### Microchip Embedded System Developer Virtual Internship
-
-✅ Learned Embedded Systems Fundamentals
-
-✅ Sensor Integration Techniques
-
-✅ IoT-Based Application Development
-
-✅ Hardware-Software Interaction Concepts
-
----
-
 ## 📂 Projects
 
 ### 💧 IoT Water Monitoring System
@@ -103,8 +86,6 @@
 🥇 AWS Cloud Practitioner
 
 🥇 Oracle Certification
-
-🥇 Microchip Embedded System Developer Virtual Internship
 
 ---
 
