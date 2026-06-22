@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sai Krishna
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;IoT+Enthusiast;Power+BI+Developer;AWS+Cloud+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=IoT+Enthusiast;Power+BI+Developer;AWS+Cloud+Learner" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
